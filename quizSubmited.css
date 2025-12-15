@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: none;
+    color: blue;
+    font-size: xx-large;
+    font-stretch: ultra-expanded;
+}
+.smiley{
+    background-color: white;
+    background-repeat: none;
+    background-size: contain;
+}

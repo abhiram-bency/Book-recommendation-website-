@@ -1,0 +1,9 @@
+h1{
+   font-size: xx-large;
+   text-align: center;
+   text-shadow: brown;
+   text-overflow: ellipsis; 
+}
+.login_image{
+    padding-left: 50px;
+}

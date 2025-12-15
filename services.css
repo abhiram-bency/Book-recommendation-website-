@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://compote.slate.com/images/a92fef3e-c1db-4cbf-93da-dae90c0b9388.jpeg?crop=4395%2C2930%2Cx0%2Cy0"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color:white;
+  }
+.flex-container {
+    display: flex;
+    background-color:none;
+    color:rgb(0, 255, 102);
+  }
+  
+.flex-container > div {
+    background-color: #122a97;
+    margin: 10px;
+    padding: 100px;
+    font-size: 20px;
+    border-radius: 50px;
+
+
+  }
+
+

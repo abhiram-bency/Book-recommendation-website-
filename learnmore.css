@@ -1,0 +1,11 @@
+.lang{
+    color: blue;
+}
+body{
+    background-image: url("https://www.shutterstock.com/shutterstock/videos/1095060811/thumb/7.jpg?ip=x480");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.feedback{
+    background-color: rgb(133, 112, 152);
+}

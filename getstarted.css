@@ -1,0 +1,30 @@
+.a{
+font-size: xx-large;
+text-align: center;
+
+}
+.b{
+    font-size: xx-large;
+    text-align: center;
+}
+.c{
+    font-size: xx-large;
+    text-align: center;
+}
+.d{
+    font-size: xx-large;
+    text-align: center;
+}
+.e{
+    font-size: xx-large;
+    text-align: center;
+}
+.f{
+    font-size: xx-large;
+    text-align: center;
+}
+*{
+    background-image: url("https://learningprofessor.com/wp-content/uploads/2020/03/get-started.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,30 @@
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEuQUz3t4wVp-V1nFLpdsjKXC6jqUISTJWA&usqp=CAU") ;
+    color:white;
+}
+#submit{
+    background-color: red;
+    text-transform: capitalize;
+    text-decoration: solid;
+    font-size: xx-large;
+}
+.one{
+    background-color:rgb(37, 13, 111);
+}
+.second{
+    background-color:rgb(37, 13, 111);
+}
+.third{
+    background-color:rgb(37, 13, 111);
+}
+.fourth{
+    background-color:rgb(37, 13, 111);
+}
+.pink{
+    background-color: rgb(37, 13, 111);;
+}
+.heading{
+    color: rgb(222, 235, 235);
+    background-color: blue;
+    font-size: x-large;
+}
